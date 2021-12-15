@@ -1,0 +1,20 @@
+computadora: Cuenta con una computadora o laptop.  
+telefono: Posee telefonía fija.
+internet: Posee conexión a internet.
+especialidad: En qué se ha especializado el docente. 
+conocimientoTIC: Uso de las TIC en el proceso de enseñanza y aprendizaje 
+ingreso: Ingreso bruto total por mes.
+cursos_virtuales: Ha participado en estrategias formativas a través de clases virtuales.
+capacitacionTIC: Ha recibido capacitaciones que alientan el uso de las tecnologías.
+modcapacitTIC: Modalida de capacitacion .
+mensajeriaW: Utiliza el aplicativo de WhatsApp.
+PeruEduca: PeruEduca como medio para informarse de la actividad docente.
+webMINSA: MINSA como medio para informarse de la actividad docente.
+celular: Tiene a su disposición un celular propio. 
+opinionTIC1: Si está de acuerdo en que las TIC facilitan el aprendizaje colaborativo de los estudiantes.
+opinionTIC2: Si está de acuerdo en que despersonalizan el proceso de enseñanzaaprendizaje.
+opinionTIC3: Si está de acuerdo en que van a alentar el facilismo de los estudiantes y la incomunicación entre ellos.
+opinionTIC4: Si está de acuerdo en que van a facilitar la tarea de los docentes en el aula.
+opinionTIC5: Si está de acuerdo en que van a ampliar las oportunidades de acceso a la información por parte de los estudiantes.
+opinionTIC6: Si está de acuerdo en que van a reemplazar parcial o totalmente el trabajo de los docentes en el aula.
+pedagogTIC: Si considera que el acceso a tecnología/internet ayudarían a mejorar su práctica pedagógica.
